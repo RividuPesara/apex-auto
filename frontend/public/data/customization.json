@@ -1,0 +1,32 @@
+{
+  "bodyColors": [
+    { "name": "Performance Orange", "value": "#FF6B35" },
+    { "name": "Midnight Black", "value": "#000000" },
+    { "name": "Racing Red", "value": "#E74C3C" },
+    { "name": "Electric Blue", "value": "#4A90E2" },
+    { "name": "Pearl White", "value": "#FFFFFF" },
+    { "name": "Gunmetal Gray", "value": "#666666" },
+    { "name": "Lime Green", "value": "#50C878" },
+    { "name": "Deep Purple", "value": "#9B59B6" }
+  ],
+  "wheels": [
+    { "id": "stock", "name": "Stock", "description": "17\" Standard Alloy" },
+    { "id": "sport", "name": "Sport", "description": "19\" Performance" },
+    { "id": "racing", "name": "Racing", "description": "20\" Carbon Fiber" }
+  ],
+  "spoilers": [
+    { "id": "none", "name": "None", "description": "Clean look" },
+    { "id": "standard", "name": "Standard", "description": "Subtle wing" },
+    { "id": "gt", "name": "GT Wing", "description": "Maximum downforce" }
+  ],
+  "lights": [
+    { "id": "halogen", "name": "Halogen", "description": "Standard lights" },
+    { "id": "led", "name": "LED", "description": "Bright & efficient" },
+    { "id": "xenon", "name": "Xenon HID", "description": "Premium lighting" }
+  ],
+  "exhausts": [
+    { "id": "stock", "name": "Stock", "description": "Factory exhaust" },
+    { "id": "dual", "name": "Dual", "description": "Dual exit tips" },
+    { "id": "quad", "name": "Quad", "description": "Quad performance" }
+  ]
+}

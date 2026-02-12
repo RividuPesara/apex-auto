@@ -24,7 +24,7 @@ How to clone & run (dev)
 
 ```bash
 # Clone repository
-git clone https://github.com/RividuPesara/apex-auto
+git clone https://github.com/RividuPesara/apex-auto-mods
 cd apex-auto-mod
 
 # Backend
